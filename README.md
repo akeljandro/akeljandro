@@ -1,0 +1,2 @@
+-I'm Akel, and I made this account to put page programming stuff!
+-Expect to see lots of HTML/CSS here :]
